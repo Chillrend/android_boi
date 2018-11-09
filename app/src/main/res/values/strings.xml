@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">meineapplication</string>
+    <string-array name="agama_array">
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Protestan</item>
+    </string-array>
+</resources>
